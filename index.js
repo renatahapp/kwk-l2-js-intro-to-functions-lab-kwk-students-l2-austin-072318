@@ -11,6 +11,6 @@ return result
 }
 
 function tweetReply(fansName) { 
-  let result = "Hey " + fansName + ", thanks so much for the support! I really appreciate it! "
+  let result = "Hey " + fansName + ", thanks so much for the support! I really appreciate it!"
   return result }
   
