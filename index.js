@@ -1,5 +1,5 @@
 // Write your code in this file!
-function getUKTime(x) { 
-  let result = x + 6;
+function getUKTime(currentHour) { 
+  let result = currentHour + 6;
   return result }
 
