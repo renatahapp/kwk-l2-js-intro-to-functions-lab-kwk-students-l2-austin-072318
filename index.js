@@ -10,7 +10,7 @@ let result = .8 * x
 return result 
 }
 
-function tweetReply() { 
-  let result = "Hey " + () + ", thanks so much for the support! I really appreciate it! "
+function tweetReply(fansName) { 
+  let result = "Hey " + (fansName) + ", thanks so much for the support! I really appreciate it! "
   return result }
   
